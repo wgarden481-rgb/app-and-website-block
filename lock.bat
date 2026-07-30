@@ -1,4 +1,5 @@
 @echo off
+mode con: cols=40 lines=20
 title PC Time Limiter
 color 0A
 
